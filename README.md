@@ -1,22 +1,20 @@
-# README
+# BASE-CRAFT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+experimentation for personal website
 
-Things you may want to cover:
+## DEPENDENCIES
 
 * Ruby version: 3.0.2
 
 * System dependencies: Rails 6.1.4
 
+## SETUP
+
 * Configuration
-
 * Database creation
-
 * Database initialization
 
 * How to run the test suite
-
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
